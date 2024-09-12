@@ -1,0 +1,43 @@
+body{
+    align-content: center;
+}
+
+.a1{
+    background-color: rgb(64, 12, 12);
+    color: white;
+    text-align: center;
+    width: 300px;
+    height: 50px;
+    margin: 0 auto;
+}
+
+.a2{
+    width: 550px;
+    height: 130px;
+    margin: 0 auto;
+    padding-top: 70px;
+    background-color: rgb(98, 243, 192);
+    color: black;
+    padding-top: 0 ;
+    align-content: center;
+}
+
+.a3{
+    background-color: black;
+    border: 15px solid red;
+    align-content: center;
+    width: 600px;
+    height: 330px;
+    margin: 0 auto;
+}
+
+.a4{
+    background-color: rgb(11, 91, 91);
+    margin: 0 auto;
+    width: 900px;
+    height: 580px;
+}
+
+.a5{
+    padding: 10px;
+}
